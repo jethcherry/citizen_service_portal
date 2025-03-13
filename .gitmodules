@@ -1,0 +1,3 @@
+[submodule "modules/custom/citizen_service_module"]
+	path = modules/custom/citizen_service_module
+	url = https://github.com/jethcherry/citizen_service_module.git
